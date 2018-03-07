@@ -1,5 +1,6 @@
 # Dog Breed Identification from an Image Using CNN, Transfer Learning and Data Augmentation
 
+
 In this project we attempted to build a classifier capable of identifying a dog’s
 breed based on its photo. Considering that on a high level dogs of different breeds
 can look very similar, it is a challenging task even for humans. To train and eval-
